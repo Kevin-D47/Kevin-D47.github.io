@@ -2105,7 +2105,8 @@ button:hover:active:after,
 .profile-pic{
 	width: 310px;
 	height: 300px;
-	border-radius: 300px;
+	border-radius: 40px;
+	object-fit: scale-down;
 }
 
 /* Features */
